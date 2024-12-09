@@ -27,3 +27,8 @@ Libraries: Nougat, pdfPlumber
 Developed parsing procedures for academic paper analysis
 Implemented document embedding comparisons
 Created evaluation metrics for parser accuracy
+
+📫 Let's Connect!
+
+💼 LinkedIn: www.linkedin.com/in/kushalchhetri-kc
+📧 Email: ckushal02@vt.edu
